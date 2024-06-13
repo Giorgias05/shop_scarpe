@@ -1,0 +1,39 @@
+ /*impostazione grandezza e altezza img*/
+img {
+width: 150px !important;
+height: 150px !important;
+}
+ /* impostazioni sfondo*/
+body{
+    background-image: url(../../img/sfondo-scuro.jpg);
+    color: white;
+}
+
+/* div p per il testo*/
+.ciao{
+    font-weight: 700;
+    font-size: 20px;
+    text-align: center;
+}
+
+.ordina {
+    margin: 15px;
+}
+ /*bottoni*/
+#btn1 {
+    background-color: red ;
+    color: white ;
+}
+
+#add {  
+    background-color: red ;
+    color: white ;
+}
+
+.pulsante {
+    text-align:center;
+}
+
+.pulsante p {
+    size: large;
+}
